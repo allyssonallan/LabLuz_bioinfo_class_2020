@@ -1,0 +1,2 @@
+# LabLuz_bioinfo_class_2020
+Introduction to bioinformatics
